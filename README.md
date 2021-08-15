@@ -18,3 +18,5 @@ Skills: Python / Bootstrap / HTML / C++
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LLIAJIYH&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/LLIAJIYH)  
+
+![Codewars stats](https://www.codewars.com/users/Bayram_dev/badges/large)
