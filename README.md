@@ -5,7 +5,7 @@
 Skills: Python / Bootstrap / HTML / C++
 
 - 🔭 I’m currently working on **Cyborg** discord bot - open-source bot with web dashboard 
-- 🌱 I’m currently learning RUST / Go 
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on any projects with no limitations 
 
 
